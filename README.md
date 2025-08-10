@@ -4,6 +4,12 @@
 This project analyzes 11,000+ customer orders to uncover root causes of delayed deliveries and build risk profiles for order fulfillment.  
 Using Python (EDA + ML) and Power BI, the analysis identifies operational bottlenecks, quantifies delay drivers, and segments orders/customers into high, medium, and low-risk clusters for better logistics planning.
 
+## 📊 Dashboard Preview
+
+![Road](images/page1.png)
+![Ship](images/page2.png)
+![Flight](images/page3.png)
+
 ## Business Objective
 - Identify key factors driving order delays
 - Quantify impact of discounts, weight, value, and other order attributes
